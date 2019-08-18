@@ -1,0 +1,11 @@
+CustomerID,CompanyName,LastName,FirstName,IsVeggi,Address,City,Region,PostalCode,Country,Phone,Photo,Note
+,NULL,Angel,Anderson,1,Fir Street,Montreal,QC,H9H 0A2,Canada,514998443,NULL,NULL
+,NULL,Anderson,Daniel,0,Larch Mont Road,Montreal,QC,H9H 0C1,Canada,514336478,NULL,NULL
+,Apple Lane,Brooke,Shelly,1,Elm Street,Montreal,QC,H9H 3B6,Canada,514873409,NULL,NULL
+,NULL,Chen,Amy,0,Dogwood Drive,Montreal,QC,H9H 3H7,Canada,514783953,NULL,NULL
+,NULL,Durkin,Brian,0,Pine Place,Montreal,QC,H9H 3T8,Canada,514998837,NULL,NULL
+,Dogwood,Erickson,Peter,0,The Highlands,Montreal,QC,H9H 3Y5,Canada,514892354,NULL,NULL
+,NULL,Funk,Linda,0,The Highlands,Montreal,QC,H9J 1M4,Canada,514783500,NULL,NULL
+,NULL,Graff,Thom,0,James Road,Montreal,QC,H9J 1K1,Canada,514906523,NULL,NULL
+,Maple,Harui,Monica,0,Tamarack Road,Montreal,QC,H9J 2P9,Canada,514443778,NULL,NULL
+,NULL,Hightower,"William	",0,Bowery Estates Road,Montreal,QC,H9J 2T2,Canada,NULL,NULL,NULL

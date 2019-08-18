@@ -1,0 +1,5 @@
+GoodID,SupplierID,PerchaseDate,Quantity,Unit,UnitPrice
+3,1,1-2-2018,20,kg,14
+5,1,2-2-2018,20,kg,12
+9,3,2-2-2018,20,kg,18
+11,2,3-5-2018,10,Pack,12

@@ -1,0 +1,10 @@
+OrderID,DriverID,Deliveryaddress,DeliveryPostalCode,DeliveryPhone,DeliveryCIty,Milage
+1,1,Larch Mont Road,H9J 2T3,514-123 45 67,Montreal,1.24
+2,5,Fir Street,H9H 5K9,514-123 45 68,Montreal,1
+3,6,Larch Mont Road,H9J 1K5,514-123 45 69,Montreal,2
+4,4,Elm Street,NULL,514-123 45 70,Montreal,0.75
+5,2,Dogwood Drive,H9J 2M7,514-123 45 71,Montreal,1
+6,1,Pine Place,H9H 4A3,514-123 45 72,Montreal,2
+7,1,The Highlands,H9J 1M4,514-123 45 73,Montreal,1.5
+8,2,James Road,H9H 3Y5,514-123 45 74,Montreal,1.75
+9,3,The Highlands,H9H 4C8,514-123 45 75,Montreal,1

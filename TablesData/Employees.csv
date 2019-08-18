@@ -1,0 +1,10 @@
+EmployeeID,LastName,FirstName,JobTitle,BirthDate,HireDate,JobPositionID,JobTypeID,Salary,HourlyRate,Address,City,Region,PostalCode,Country,CellPhone,OfficePhone,Extension,HomePhone,Note
+,Brian,Angela,NULL,1-26-1980,06-20-2018,1,1,3000,30,Fir Street,Montreal,QC,H9H 3N7,Canada,514235765,NULL,NULL,NULL,NULL
+,Clair,Sarah,NULL,6-1-1981,8-11-2017,2,1,2500,20,Larch Mont Road,Montreal,QC,H9H 3J7,Canada,514459987,NULL,NULL,NULL,NULL
+,Thoms,Amy,NULL,2-21-1983,8-21-2018,3,2,1000,14,Fir Street,Montreal,QC,H9H 3H3,Canada,514786523,NULL,NULL,NULL,NULL
+,Gary,Eva,NULL,3-12-1984,9-28-2017,3,2,1000,14,Larch Mont Road,Montreal,QC,"H9H 3C1",Canada,514905490,NULL,NULL,NULL,NULL
+,Frank,Joshua,NULL,3-30-1985,10-26-2017,3,2,1000,14,Elm Street,Montreal,QC,H9H 4C8,Canada,514703452,NULL,NULL,NULL,NULL
+,Harui,Nate,NULL,4-19-1986,11-13-2017,3,2,1000,14,Dogwood Drive,Montreal,QC,H9H 3Y5,Canada,514205690,NULL,NULL,NULL,NULL
+,Kilwine,Peter,NULL,5-21-1979,12-1-2017,4,1,1000,15,Pine Place,Montreal,QC,H9J 1M4,Canada,514672954,NULL,NULL,NULL,NULL
+,Martin,William,NULL,6-2-1976,12-25-2017,5,1,2500,20,The Highlands,Montreal,QC,H9H 4A3,Canada,514983245,NULL,NULL,NULL,NULL
+,Johnson,Ryan,NULL,4-19-1986,9-28-2017,6,1,2800,18,Saint Jack,Montreal,QC,H3E1E4,Canada,514407842,NULL,NULL,NULL,NULL

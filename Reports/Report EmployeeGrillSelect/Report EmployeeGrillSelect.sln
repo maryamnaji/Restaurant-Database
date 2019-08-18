@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Report EmployeeGrillSelect", "Report EmployeeGrillSelect\Report EmployeeGrillSelect.rptproj", "{38E765C7-6320-4FDF-BBF5-FFB42CD93CA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E765C7-6320-4FDF-BBF5-FFB42CD93CA2}.Debug|Default.ActiveCfg = Debug
+		{38E765C7-6320-4FDF-BBF5-FFB42CD93CA2}.Debug|Default.Build.0 = Debug
+		{38E765C7-6320-4FDF-BBF5-FFB42CD93CA2}.Debug|Default.Deploy.0 = Debug
+		{38E765C7-6320-4FDF-BBF5-FFB42CD93CA2}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{38E765C7-6320-4FDF-BBF5-FFB42CD93CA2}.DebugLocal|Default.Build.0 = DebugLocal
+		{38E765C7-6320-4FDF-BBF5-FFB42CD93CA2}.Release|Default.ActiveCfg = Release
+		{38E765C7-6320-4FDF-BBF5-FFB42CD93CA2}.Release|Default.Build.0 = Release
+		{38E765C7-6320-4FDF-BBF5-FFB42CD93CA2}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE155916-B4B9-40F9-A3C4-D79111EBFA74}
+	EndGlobalSection
+EndGlobal

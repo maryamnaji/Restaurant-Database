@@ -1,0 +1,16 @@
+MenuItemID,ItemTypeID,ItemName,ItemDescription,ItemPrice
+,1,Wings,NULL,8.45
+,1,Borak,NULL,9.95
+,1,Bâtonnets,NULL,7.99
+,2,Kabab Barg,NULL,23.5
+,2,Joojeh Kabab,NULL,19.5
+,2,Koobideh,NULL,15
+,3,Greek salad ,NULL,4.95
+,3,House salad,NULL,5.99
+,3,Grilled chicken salad,NULL,14.99
+,4,Chocolate cake,NULL,4
+,4,Persian baklava,NULL,3.5
+,5,Juice,NULL,1.77
+,5,Tisanes,NULL,2.5
+,5,tea,NULL,1.76
+,5,Coffee,NULL,1.76
